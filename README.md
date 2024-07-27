@@ -38,7 +38,7 @@ The project includes the following major arcana cards with their respective mean
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/fortune-teller-project.git
+    git clone https://github.com/jramirez195/fortune-teller-project.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -69,6 +69,10 @@ The application initializes a Tkinter window with a button to draw cards. When t
 ## Acknowledgements
 
 This project uses the Tkinter library for the graphical user interface and random module for drawing cards. 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](License.md) file for details.
 
 ---
 
